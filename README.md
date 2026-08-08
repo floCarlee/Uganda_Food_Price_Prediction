@@ -271,13 +271,10 @@ Uganda_Food_Price_Prediction/
 │       └── final_food_price_predictions.csv
 │
 ├── notebooks/
-│   ├── 01_data_understanding.ipynb
-│   ├── 02_data_cleaning_preparation.ipynb
-│   ├── 03_eda_visualization.ipynb
-│   ├── 04_machine_learning_preparation.ipynb
-│   ├── 05_classical_ml_model.ipynb
-│   ├── 06_neural_network_model.ipynb
-│   └── 07_demo_interface.ipynb
+│   ├── 01_data_cleaning.ipynb
+│   ├── 02_Data_Exploration_and_Visualization.ipynb
+│   ├── 03_Machine_Learning_Preparation.ipynb
+│   
 │
 ├── models/
 │   └── random_forest_food_price_model.pkl
