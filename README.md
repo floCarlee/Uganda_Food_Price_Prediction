@@ -320,13 +320,10 @@ pip install -r requirements.txt
 
 Run the notebooks in order:
 
-1. `01_data_understanding.ipynb`
-2. `02_data_cleaning_preparation.ipynb`
-3. `03_eda_visualization.ipynb`
-4. `04_machine_learning_preparation.ipynb`
-5. `05_classical_ml_model.ipynb`
-6. `06_neural_network_model.ipynb`
-7. `07_demo_interface.ipynb`
+1. `01_data_cleaning.ipynb`
+2. `02_Data_Exploration_and_Visualization.ipynb`
+3. `03_Machine_Learning_Preparation.ipynb`
+`
 
 ### 5. Run the Demo App
 
