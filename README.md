@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RefactoryFinalProject
 Data engineering with ML
 # Uganda Approved Budget Predictive Analytics Project
@@ -43,3 +44,7 @@ Predict the approved budget allocation amount for a budget line item using featu
 8. Evaluation and findings
 9. Demo/interface using Streamlit
 10. Final presentation slides
+=======
+# Uganda_Food_Price_Prediction
+Predicting the retail price forfood in Ugandan Markets
+>>>>>>> 6850c4561e2a5b849118bcaac3fff6724cb75015
