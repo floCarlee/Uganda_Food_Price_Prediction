@@ -162,7 +162,7 @@ The exploratory data analysis included:
 - Current price vs next month price
 - Correlation analysis of numerical price features
 
-### Key EDA Findings
+### Key Exploratory Data Analysis Findings
 
 - Food prices vary by commodity, market, category, and time.
 - Current price, previous price, and moving averages have strong relationships with next month price.
@@ -239,6 +239,16 @@ The Random Forest model explained approximately 89.6% of the variation in next m
 
 ---
 
+## Demo Dashboard
+
+A simple dashboard was created to visualize some of the exploratory data. 
+1. Dashboard filters
+2. Automatic dashboard loading
+3. Automatic refresh every 60 seconds
+4. Data visualizations
+5. Current Price vs Predicted Price graph in Data Visualizations
+
+
 ## Demo Interface
 
 A simple Gradio demo interface was created for the final model.
@@ -274,6 +284,9 @@ Uganda_Food_Price_Prediction/
 │   ├── 01_data_cleaning.ipynb
 │   ├── 02_Data_Exploration_and_Visualization.ipynb
 │   ├── 03_Machine_Learning_Preparation.ipynb
+    ├── 04_demo.ipynb
+
+
 │   
 │
 ├── models/
@@ -323,6 +336,7 @@ Run the notebooks in order:
 1. `01_data_cleaning.ipynb`
 2. `02_Data_Exploration_and_Visualization.ipynb`
 3. `03_Machine_Learning_Preparation.ipynb`
+4. `04_demo.ipynb`
 `
 
 ### 5. Run the Demo App
@@ -346,6 +360,7 @@ The main Python libraries used are:
 - tensorflow
 - joblib
 - gradio
+-os
 
 ---
 
